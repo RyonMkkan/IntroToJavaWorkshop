@@ -8,7 +8,7 @@ String item = JOptionPane.showInputDialog("somthing you in a bathroom");
 String item2 = JOptionPane.showInputDialog("some thing");
 String city = JOptionPane.showInputDialog("city");
 String typeofcar =JOptionPane.showInputDialog("any type of car");
-JOptionPane.showMessageDialog(null, noun + " woke up in a strange room " + person +   " came bursting out of a door " + "throwing you a/an " + item + " you tried to shiled your self with an/a "+item2  ); 
+JOptionPane.showMessageDialog(null, noun + " woke up in a strange room " + person +   " came bursting out of a door " + "throwing you a/an " + item + " you tried to shiled your self with an/a "+item2 =" you ran out the dor only to find yourself in + city"  ); 
 }
 }
 //noun = person place or thing
